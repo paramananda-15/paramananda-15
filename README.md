@@ -1,11 +1,11 @@
-# Hi, I'm Paramanand 👋
+# Hi, I'm Paramananda 👋
 
 🎓 Computer Science Undergraduate at **Bangalore Institute of Technology**  
 🤖 Interested in **Machine Learning, Deep Learning, and AI Systems**  
 💻 Competitive Programmer | Hackathon Enthusiast  
 
 LeetCode Rating: **1842**  
-Solved **350+ algorithmic problems**  
+Solved **400+ algorithmic problems**  
 🥉 **3rd Place – HackOverflow (IIT Goa)**  
 🏆 **1st Place – Codeathon (Dev-Soc × GeeksforGeeks)**
 
@@ -20,7 +20,7 @@ Python | Java | C | SQL
 TensorFlow | Scikit-learn | Keras | Pandas | NumPy | Matplotlib  
 
 **Backend / Systems**  
-FastAPI | PostgreSQL | Next.js  
+FastAPI | PostgreSQL   
 
 **Tools & Platforms**  
 Git | GitHub | Linux | Jupyter Notebook | AWS | VS Code  
@@ -40,7 +40,7 @@ CNN-based plant disease classifier trained on the **PlantVillage dataset** achie
 ## 🧠 Competitive Programming
 
 - ⭐ **LeetCode Rating:** 1842  
-- 🧩 **350+ problems solved**
+- 🧩 **400+ problems solved**
 - 🏆 **1st Place – Codeathon**
 - 🥉 **3rd Place – HackOverflow (IIT Goa)**
 - 
