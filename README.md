@@ -4,7 +4,7 @@
 🤖 Interested in **Machine Learning, Deep Learning, and AI Systems**  
 💻 Competitive Programmer | Hackathon Enthusiast  
 
-LeetCode Rating: **1842**  
+LeetCode Rating: **1851** 🛡️ Knight Badge 
 Solved **400+ algorithmic problems**  
 🥉 **3rd Place – HackOverflow (IIT Goa)**  
 🏆 **1st Place – Codeathon (Dev-Soc × GeeksforGeeks)**
@@ -39,7 +39,7 @@ CNN-based plant disease classifier trained on the **PlantVillage dataset** achie
 
 ## 🧠 Competitive Programming
 
-- ⭐ **LeetCode Rating:** 1842  
+- ⭐ **LeetCode Rating:** 1851
 - 🧩 **400+ problems solved**
 - 🏆 **1st Place – Codeathon**
 - 🥉 **3rd Place – HackOverflow (IIT Goa)**
