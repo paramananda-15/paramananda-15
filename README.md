@@ -77,14 +77,6 @@ CNN-based plant disease classifier trained on **PlantVillage dataset** achieving
 
 ---
 
-### 📊 GitHub Stats
-
-![Paramanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=paramananda-15&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paramananda-15&layout=compact&theme=tokyonight)
-
----
-
 ### 🔗 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/paramanandanuchhi  
